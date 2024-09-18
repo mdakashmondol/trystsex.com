@@ -1,0 +1,186 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} 
+
+.banner {
+    width: 100%;
+    height: 1067px;
+    background-color: #fff;
+}
+
+.banner_2 {
+    margin-left: 5%;
+    width: 90%;
+    height: 1067px;
+    background-color: #fff;
+}
+
+.hader {
+    display: flex;
+    width: 100%;
+    height: 64px;
+    background-color: rgb(16, 16, 16);
+}
+
+.hader_2 {
+    width: 120px;
+    height: 100px;
+    padding-bottom: 30px;
+    margin-left: 22px;
+}
+
+.hader_3 {
+    font-weight: 700;
+    color: #fff;
+    padding-left: 21%;
+    padding-top: 20px;
+    font-family: "Cabin", sans-serif;
+}
+
+.log {
+    padding-top: 40px;
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+    font-size: calc(1.375rem + 1.5vw);
+}
+
+.email {
+    font-family: "Cabin", sans-serif;
+}
+
+.email_1 {
+    padding-top: 14px;
+    font-weight: 700;
+}
+
+.email_2 {
+    color: #5d738d;
+    width: 95%;
+    height: 47px;
+    border: 1px solid #a6b6c6;
+    border-radius: 8px;
+    margin-top: 10px;
+    outline: #5d738d;
+}
+
+.password {
+    padding-top: 36px;
+    font-weight: 700;
+}
+
+.password_2 {
+    font-family: "Cabin", sans-serif;
+}
+
+.password_3 {
+    color: #5d738d;
+    width: 95%;
+    height: 47px;
+    border: 1px solid #a6b6c6;
+    border-radius: 8px;
+    margin-top: 10px;
+    outline: #5d738d;
+}
+.ptag{
+    padding-top:40px ;
+}
+.ptag_2{
+    font-weight: 700;
+    font-family: "Cabin", sans-serif;
+}
+.imag{
+    border:2px solid blue ;
+}
+.imag_2{
+    color: #5d738d;
+    width: 92%;
+    height: 47px;
+    border: 1px solid #a6b6c6;
+    border-radius: 8px;
+    outline: #5d738d;
+}
+.checkbox{
+    padding-top: 37px;
+    display: flex;
+
+}
+.checkbox_2{
+    padding-left: 5px;
+    font-weight: 700;
+    font-family: "Cabin", sans-serif; 
+}
+.button{
+    padding-top: 40px;
+}
+.button_2{
+    color: #fff;
+    background-color: #972c37;
+    border: none;
+    height:45px ;
+    width: 77px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 100;
+}
+.button_3{
+    padding-top: 36px;
+}
+.button_4{
+    width: 180px;
+    height: 42px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+}
+.button_5{
+    margin-top: 8px;
+    height: 42px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    width: 300px;
+}
+.button_6{
+    margin-top: 8px;
+    height: 42px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    width: 340px;
+}
+.sign{
+    padding-top: 42px;
+    font-family: "Cabin", sans-serif;
+    font-weight: 700px;
+    font-size: 17px; 
+}
+.tryst{
+    padding-top: 14px;
+    font-size: 17px;
+    font-weight: 400;
+}
+.tryst_2{
+    padding-top: 13px;
+    font-size: 17px;
+    font-weight: 400;
+}
+.provider{
+    padding-top:12px ;
+}
+.provider_2{
+    width: 127px;
+    height: 41px;
+    border: none;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.clint{
+    margin-left: 5px;
+    height: 41px;
+    border: none;
+    font-size: 16px;
+    border-radius: 8px;
+    width: 105px;
+}
